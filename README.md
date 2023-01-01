@@ -2,4 +2,4 @@
 A simple Card Generator (No Luhn algorithm)
 
 
-![mainCardScreen]res/Readme/main.png
+![mainCardScreen](res/Readme/main.png)
